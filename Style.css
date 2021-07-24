@@ -1,0 +1,70 @@
+body {
+    background-image: url("iceberg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-style: italic;
+    font-family: 'Courier New', monospace;
+    
+  }
+h1 {
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+    
+    
+   }
+h2{
+    padding: 8px;
+    text-align: center;
+    font-size: larger;
+    border-style: none;
+}
+
+h3{
+    text-align: center;
+    font-size: medium;
+    font-style: initial;
+    color: red;
+
+}
+
+h4{
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    color: red;
+}
+
+li{
+    color:coral;
+    font-weight: bolder;
+    padding: 15px;
+    font-size: larger;
+    text-align: center;
+    
+   
+        
+      }
+
+a {
+    color:black;
+    font-size: larger;
+    font-weight: bolder;
+    padding: auto;
+    width: auto;
+    }
+
+a:hover {
+    text-decoration: underline overline;
+    color: rgb(247, 16, 16);
+}
+
+p{
+    text-align: center;
+    font-size: x-small;
+    
+    
+}
+
